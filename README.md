@@ -1,0 +1,2 @@
+# CATransitionOfScanImage
+基于CATransition实现转场动画循环查看视图的控件，简单易用
